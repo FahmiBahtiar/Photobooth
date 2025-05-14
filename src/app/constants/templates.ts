@@ -51,10 +51,10 @@ const templates: Template[] = [
     description: 'Four-photo starry sky layout with vertical arrangement',
     photoPositions: [
       // Vertically arranged photo positions with optimized spacing
-      { x: 6.52, y: 7.10, width: 86.52, height: 18.92 },     // First photo - adjusted for 16:9 ratio
-      { x: 6.52, y: 26.94, width: 86.52, height: 18.92 },    // Second photo - adjusted for 16:9 ratio
-      { x: 6.52, y: 46.78, width: 86.52, height: 18.92 },    // Third photo - adjusted for 16:9 ratio
-      { x: 6.52, y: 66.62, width: 86.52, height: 18.92 },    // Fourth photo - adjusted for 16:9 ratio
+      { x: 4, y: 10, width: 86.52, height: 18.92 },     // First photo - adjusted for 16:9 ratio
+      { x: 4, y: 30, width: 86.52, height: 18.92 },    // Second photo - adjusted for 16:9 ratio
+      { x: 4, y: 50.25, width: 86.52, height: 18.92 },    // Third photo - adjusted for 16:9 ratio
+      { x: 4, y: 70.50, width: 86.52, height: 18.92 },    // Fourth photo - adjusted for 16:9 ratio
     ],
     aspectRatio: 3, // Adjusted aspect ratio for better visual balance
     photoBorderRadius: 0, // 照片边框圆角
